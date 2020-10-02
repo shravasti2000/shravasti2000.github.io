@@ -256,7 +256,7 @@ transition:all 1s;
     width:200px !important;
   }
   .icons{
-    visibility: hidden;
+    visibility: hidden !important;
   }
   .icons1{
     padding-top: 25px !important;
@@ -303,7 +303,7 @@ transition:all 1s;
     width:500px !important;
   }
   .icons{
-    visibility: hidden;
+    visibility: hidden !important;
   }
   .icons1{
     padding-top: 25px !important;
