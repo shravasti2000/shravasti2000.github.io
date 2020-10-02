@@ -256,71 +256,41 @@ transition:all 1s;
     width:200px !important;
   }
   .icons{
-    position: fixed;
-    top:40%;
-    justify-content: center;
-    left:0%;
-    width:250px;
-    display:flex;
-    flex-direction: column;
+    visibility: hidden;
   }
-  .icons a{
-    text-decoration: none;
-    text-transform: uppercase;
-    padding:10px;
-    font-size: 22px;
-    font-family: sans-serif;
-    margin:2px;
-    text-align: right;
-    border:2px solid black;
-    color:#000;
-    background-color: #f5e5e5;
-    font-weight: 600;
-    border-radius: 0px 50px 50px 0px;
-    transform: translate(-185px,0px);
-    transition:all 1s;
+  .icons1{
+    padding-top: 25px !important;
+    visibility: visible !important;
+    text-align: center !important;
+    padding-bottom: 30px !important;
+    font-size: 24px !important;
   }
-  .icons a:hover{
-    transform: translate(-30px,0px);
+  .icons1 .fa{
+    margin-right: 30px;
   }
-  .icons a i{
-  margin-left: 25px;
-  /*background-color: white;*/
-  height:44px;
-  width:40px;
-  color:grey;
-  text-align: center;
-  line-height: 40px;
-  border-radius: 50%;
-  transition:all 1s;
+  .icons1 a i{
+    height:44px;
+    width:40px;
+    text-align: center;
+    line-height: 40px;
+    border-radius: 50%;
+    transition: 1s;
   }
-  .icons a:hover i{
-    transform: rotate(360deg);
-  }
-  .icons a i.fa-facebook-f{
+
+  .icons1 a i.fa-facebook-f{
     background-color:  #3b5998;
     color:white;
   }
-  .icons a i.fa-instagram{
+  .icons1 a i.fa-instagram{
     background-color:  #fb3958 ;
     color:white;
   }
-  .icons a i.fa-twitter{
+  .icons1 a i.fa-twitter{
     background-color:  #1da1f2;
     color:white;
   }
-  .footer{
-    background-color: #222222;
-    height: 60px;
-  }
-  .footer h5{
-    text-align: center;
-    color:aqua;
-    text-shadow: 0 0 10px aqua;
-    padding-top: 25px;
-  }
-  .icons1{
-    visibility: hidden;
+  .icons1 i:hover{
+    transform: rotate(360deg) !important;
   }
 }
 
@@ -333,71 +303,41 @@ transition:all 1s;
     width:500px !important;
   }
   .icons{
-    position: fixed;
-    top:40%;
-    justify-content: center;
-    left:0%;
-    width:250px;
-    display:flex;
-    flex-direction: column;
+    visibility: hidden;
   }
-  .icons a{
-    text-decoration: none;
-    text-transform: uppercase;
-    padding:10px;
-    font-size: 22px;
-    font-family: sans-serif;
-    margin:2px;
-    text-align: right;
-    border:2px solid black;
-    color:#000;
-    background-color: #f5e5e5;
-    font-weight: 600;
-    border-radius: 0px 50px 50px 0px;
-    transform: translate(-185px,0px);
-    transition:all 1s;
+  .icons1{
+    padding-top: 25px !important;
+    visibility: visible !important;
+    text-align: center !important;
+    padding-bottom: 30px !important;
+    font-size: 24px !important;
   }
-  .icons a:hover{
-    transform: translate(-30px,0px);
+  .icons1 .fa{
+    margin-right: 30px;
   }
-  .icons a i{
-  margin-left: 25px;
-  /*background-color: white;*/
-  height:44px;
-  width:40px;
-  color:grey;
-  text-align: center;
-  line-height: 40px;
-  border-radius: 50%;
-  transition:all 1s;
+  .icons1 a i{
+    height:44px;
+    width:40px;
+    text-align: center;
+    line-height: 40px;
+    border-radius: 50%;
+    transition: 1s;
   }
-  .icons a:hover i{
-    transform: rotate(360deg);
-  }
-  .icons a i.fa-facebook-f{
+
+  .icons1 a i.fa-facebook-f{
     background-color:  #3b5998;
     color:white;
   }
-  .icons a i.fa-instagram{
+  .icons1 a i.fa-instagram{
     background-color:  #fb3958 ;
     color:white;
   }
-  .icons a i.fa-twitter{
+  .icons1 a i.fa-twitter{
     background-color:  #1da1f2;
     color:white;
   }
-  .footer{
-    background-color: #222222;
-    height: 60px;
-  }
-  .footer h5{
-    text-align: center;
-    color:aqua;
-    text-shadow: 0 0 10px aqua;
-    padding-top: 25px;
-  }
-  .icons1{
-    visibility: hidden;
+  .icons1 i:hover{
+    transform: rotate(360deg) !important;
   }
 }
 
