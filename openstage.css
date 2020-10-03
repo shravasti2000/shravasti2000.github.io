@@ -338,7 +338,7 @@
       transform: rotate(360deg) !important;
     }
     #video-pro .carousel-item{
-      height:980px !important;
+      height:700px !important;
     }
   }
 
@@ -387,9 +387,7 @@
     .icons1 i:hover{
       transform: rotate(360deg) !important;
     }
-   #video-pro .carousel-item{
-      height:700px !important;
-    }
+  
   }
 
   /* Medium devices (tablets, 768px and up) */
